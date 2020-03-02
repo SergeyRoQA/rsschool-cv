@@ -1,5 +1,3 @@
-
-
 #Rogachevky Sergey
 ###Contacts:
 *mob.tel.: +37295225110.
@@ -33,6 +31,7 @@ I am looking for opportunity to work in our company as QA Engineer (Automation) 
  
 
 ##EDUCATION
+
 *EPAM QA classes - 2016
 *HtmlAcademy, online classes (HTML, CSS, JavaScript) - 2017-2018
 *Udemy ES6 and React/Redux courses - 2018-2019
