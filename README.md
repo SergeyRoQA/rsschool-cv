@@ -1,1 +1,1 @@
-https://github.com/SergeyRoQA/rsschool-cv/cv
+https://github.com/sergeyrogachevsky/rsschool-cv
